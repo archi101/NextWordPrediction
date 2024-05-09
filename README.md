@@ -3,6 +3,7 @@ Predicts next word based on semantics similar to working of LLMs
 <p>
   
 Next Word Prediction - Keyboard Application
+<p>
 ● Implemented an NLP model leveraging Long Short-Term Memory (LSTM) neural networks to predict the next word
 in a sentence, enhancing the user’s typing experience.
 <p>
